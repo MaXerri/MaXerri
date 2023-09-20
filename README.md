@@ -1,4 +1,4 @@
-- Hi, I’m @MaXerri I am a computer science and mechanical engineering student at the Cornell University College of Engineering. 
+- Hi, I’m @MaXerri I am a computer science student minoring in mechanical engineering and applied mathematics at Cornell University, within the College of Engineering. 
 - I’m interested in implementing software for mechanical-related systems and solving optimization problems using machine learning systems.  I'm always open to opportunities for computational-related work in new fields.  
 - Current Projects:
    - making deep learning models for human joint position estimation for a software to analyze running mechanics
