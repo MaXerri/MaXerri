@@ -25,7 +25,7 @@
 
     
 ## Contacts
-- Reach me: xmario02@yahoo.com
+- Reach me at xmario02@yahoo.com
 
 <!---
 MaXerri/MaXerri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
