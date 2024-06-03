@@ -20,8 +20,7 @@
 
    - Summer 2022 @Brookhaven National Lab:
         - Worked with a Macromolecular Crystallographer on the justification and testing of a new unit cell representation
-        - Developed C++ and Python programs to convert unit cells to my mentor’s new cell representation and test database search and structural comparison using this new representation. Tested and debugged my mentor’s code which I was expanding upon.
-        - Gained experience with Linux environments, CMake build automation software, shell scripting, and common software engineering practices.     
+        - Developed C++ and Python programs to convert unit cells to my mentor’s new cell representation and test database search and structural comparison using this new representation. Tested and debugged my mentor’s code which I was expanding upon.    
 
     
 ## Contacts
