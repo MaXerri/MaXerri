@@ -1,17 +1,16 @@
 ## About Me
-- Hi, I’m Mario Xerri, an undergraduate computer science student at Cornell University specializing in machine learning systems and software engineering. 
-- I’m interested in implementing software for mechanical-related systems and solving optimization problems using machine learning and statistical models.
-- I'm always open to opportunities for computational-related work in new fields.
+- Hi, I’m Mario Xerri, a recent graduate of Cornell University, with a degree in CS and a minor in applied mathematics and am currently getting my MS CS at Stony Brook University.
+- I’m interested in implementing in solving optimization problems using machine learning and statistical models.  Here is some info about my current and prior coding related endeavors:
 
 ## Current Projects:
    - 2D Human Pose Estimation (HPE) Model
-       - Collaborated with two other students to train and develop a non-pretrained visual transformer deep learning model from scratch for single-person human position estimation using PyTorch
+       - Collaborating with two other students to train and develop a visual transformer deep learning model from scratch for single-person human position estimation using PyTorch. 
 
 ## Prior Projects: 
    - Minesweeper in OCaml (Spring 2023)
         - Collaborated with two other students in the development of a completely function implementation of Minesweeper in OCaml which can be played in the terminal.
         - Moves were parsed as commands within the terminal and game states were displayed after each mode
-   - 
+          
 ## Prior Research 
    - Summer 2023 @Brookhaven National Lab:
         - Developed and trained a recurrent single object detection convolutional neural network model in PyTorch for event-based camera data utilizing sparse convolution layers from NVIDIA’s Minkowski Engine Library.
