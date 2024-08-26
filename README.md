@@ -1,6 +1,6 @@
 ## About Me
 - Hi, I’m Mario Xerri, a recent graduate of Cornell University, with a bachelors in CS and a minor in applied mathematics and am currently getting my MS CS at Stony Brook University.
-- I’m interested in implementing in solving optimization problems using machine learning and statistical models.  Here is some info about my current and prior coding related endeavors:
+- I’m interested in solving optimization problems using machine learning and statistical models.  Here is some info about my current and prior coding related endeavors:
 
 ## Current Projects:
    - 2D Human Pose Estimation (HPE) Model
