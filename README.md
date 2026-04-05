@@ -1,9 +1,12 @@
 ## About Me
-- Hi, I’m Mario Xerri, a recent graduate of Cornell University, with a bachelors in CS and a minor in applied mathematics and am currently getting my MS CS at Stony Brook University.
-- I’m interested in solving optimization problems using machine learning and statistical models.  
+- Hi, I’m Mario Xerri, a recent graduate of Cornell University, with a bachelors in CS and a minor in applied mathematics and am currently persuing my MS CS at Stony Brook University.
+- I’m interested in building out ML-based workflows as systems.  
 - For more information about my projects / work experience / education visit my github pages website pinned under my profile.
 
 ## Prior Projects: 
+  - Distributed Bank Transaction Processing Systems
+       - Paxos-Based: Scalable, fault-tolerant distributed transaction processing system in C++ using Paxos-based consensus, asynchronous gRPC messaging, and shard-based partitioning, sustaining thousands of transactions per second.
+       - PBFT-Based: Scalable fault-tolerant distributed transaction processing system in Python using PBFT-based consensus.
    - 2D Human Pose Estimation (HPE) Model
        - Collaborated with two other students to train and develop a visual transformer deep learning model for single-person human position estimation using PyTorch.
        - Devleloping a CI/CD pipeline to automate future model deployments.
@@ -15,9 +18,7 @@
    - Minesweeper in OCaml (Spring 2023)
         - Collaborated with two other students in the development of a completely function implementation of Minesweeper in OCaml which can be played in the terminal.
         - Moves were parsed as commands within the terminal and game states were displayed after each mode
-    
-## Contacts
-- Reach me at xmario02@yahoo.com
+
 
 <!---
 MaXerri/MaXerri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
