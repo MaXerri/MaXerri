@@ -5,8 +5,8 @@
 
 ## Prior Projects: 
   - Distributed Bank Transaction Processing Systems
-       - Paxos-Based: Scalable, fault-tolerant distributed transaction processing system in C++ using Paxos-based consensus, asynchronous gRPC messaging, and shard-based partitioning, sustaining thousands of transactions per second.
-       - PBFT-Based: Scalable fault-tolerant distributed transaction processing system in Python using PBFT-based consensus.
+       - Paxos-Based: A Scalable, fault-tolerant distributed transaction processing system in C++ using Paxos-based consensus, asynchronous gRPC messaging, and shard-based partitioning, sustaining thousands of transactions per second.
+       - PBFT-Based: A fault-tolerant distributed transaction processing system in Python using PBFT-based consensus.
    - 2D Human Pose Estimation (HPE) Model
        - Collaborated with two other students to train and develop a visual transformer deep learning model for single-person human position estimation using PyTorch.
        - Devleloping a CI/CD pipeline to automate future model deployments.
@@ -16,8 +16,8 @@
         - Develop an online learning algorithm to fine-tune the Chronos-T5 time series LLM for portfolio optimization of the S&P 500.
 
    - Minesweeper in OCaml (Spring 2023)
-        - Collaborated with two other students in the development of a completely function implementation of Minesweeper in OCaml which can be played in the terminal.
-        - Moves were parsed as commands within the terminal and game states were displayed after each mode
+        - Collaborated with two students to devleop an implementation of Minesweeper in OCaml which can be played in the terminal.
+        - Moves aree parsed as terminal commands and game states are displayed after each move.
 
 
 <!---
