@@ -1,6 +1,6 @@
 ## About Me
-- Hi, I’m Mario Xerri, a recent graduate of Cornell University, with a bachelors in CS and a minor in applied mathematics and am currently persuing my MS CS at Stony Brook University.
-- I’m interested in building out ML-based workflows as systems.  
+- Hi, I’m Mario Xerri, a MS CS student at Stony Brook University and a recent graduate of Cornell University (BS CS + Applied Math Minor)
+- I’m interested in building out ML-based workflows as systems and amd currently researching RL-based compression techniques for chain-of-thought (CoT) reasoning in LLMs.  
 - For more information about my projects / work experience / education visit my github pages website pinned under my profile.
 
 ## Prior Projects: 
